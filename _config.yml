@@ -6,7 +6,7 @@
 name: Varsha Rai
 
 # Short bio or description (displayed in the header)
-description: Data Scientist fron Toronto
+description: Data Scientist from Toronto
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://photos.app.goo.gl/jtHwYpaVGLoHEpiB7
@@ -22,7 +22,7 @@ footer-links:
   flickr:
   github: https://github.com/raivarsha14
   instagram:
-  linkedin: https://www.linkedin.com/in/varsha-rai/
+  linkedin: https://www.linkedin.com/in/varsha-rai
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -40,7 +40,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://raivarsha14.github.io/
+url: https://raivarsha14.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
