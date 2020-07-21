@@ -9,7 +9,7 @@ name: Varsha Rai
 description: Data Scientist from Toronto
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://photos.app.goo.gl/jtHwYpaVGLoHEpiB7
+avatar: https://user-images.githubusercontent.com/61922456/88102338-64215000-cb6d-11ea-84a6-23b8feceda4d.jpg
 #
 # Flags below are optional
 #
@@ -46,7 +46,7 @@ url: https://raivarsha14.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/ImageCap"
 
 #
 # !! You don't need to change any of the configuration flags below !!
